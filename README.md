@@ -1,4 +1,4 @@
-# Modrd
+# Dark Fun
 
 Добро пожаловать на сервер Dark Fun.
 
