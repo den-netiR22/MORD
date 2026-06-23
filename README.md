@@ -18,7 +18,7 @@
 
 ## Discord
 
-https://discord.gg/nhf6kjRx92
+<a href="https://discord.gg/nhf6kjRx92">Discord</a>
 
 ## Приятной игры!
 
