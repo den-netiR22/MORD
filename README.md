@@ -1,34 +1,20 @@
-<body style="
-    margin:0;
-    padding:20px;
-    color:white;
-    font-family: Arial;
-    background-image:url('https://raw.githubusercontent.com/den-netiR22/MORD/main/Dark_LOGO.png');
-    background-size:cover;
-    background-position:center;
-">
-<div style="background: rgba(0,0,0,0.7); padding:20px; border-radius:10px;">
+# Dark Fun **Добро пожаловать на сервер Dark Fun.**
 
-<h1>Dark Fun</h1>
+## Правила сервера **Обязательно к прочтению**
 
-<p>Добро пожаловать на сервер Dark Fun.</p>
+1. В дуэльных зонах строго запрещён FFA.
+2. На всей карте вне дуэльных зон действует режим FFA.
+3. Использование команд VIP, MOD, ADMIN и SUPER ADMIN с целью получения игрового преимущества карается снятием привилегий.
+4. Teaming, буллинг, хантинг и неподобающее поведение запрещены.
+5. Использование багов и лазеек карты для получения преимущества наказывается баном.
+6. Любой игрок может оставить отзыв, жалобу или предложение в нашем Discord.
 
-<h2>Правила сервера</h2>
+## Discord
 
-<ol>
-<li>В дуэльных зонах строго запрещён FFA.</li>
-<li>На всей карте вне дуэльных зон действует режим FFA.</li>
-<li>VIP/MOD/ADMIN использование преимуществ запрещено.</li>
-<li>Teaming, буллинг и неподобающее поведение запрещены.</li>
-<li>Использование багов карается баном.</li>
-<li>Обратная связь — в Discord.</li>
-</ol>
+<a id="Dark Fun Discord">https://discord.gg/nhf6kjRx92</>
 
-<p>
-<a href="https://discord.gg/nhf6kjRx92" style="color:#00ccff;">
-👉 Discord сервер
-</a>
-</p>
+## Приятной игры!
 
-</div>
-</body>
+***Dark Fun — лучший сервер.***
+
+![Dark Fun Logo](https://raw.githubusercontent.com/den-netiR22/MORD/main/Dark_LOGO.png)
