@@ -10,8 +10,4 @@
 
 <a id="Dark Fun Discord">https://discord.gg/nhf6kjRx92</>
 
-## Приятной игры!
-
-***Dark Fun — лучший сервер.***
-
 ![Dark Fun Logo](https://raw.githubusercontent.com/den-netiR22/MORD/main/Dark_LOGO.png)
